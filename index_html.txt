@@ -8,8 +8,7 @@
 <body>
       <main class="main">
          <h1 class ="title">Curso Java Alex 2021</h1>
-         <h2>Maaaais um Teste</h2>
-         <p>paragráfo</p>
+          <p>paragráfo</p>
      </main>
 </body>
 </html>
