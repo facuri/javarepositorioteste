@@ -11,6 +11,7 @@
  
           <h2>Commit da Branch B</h2>
            <h2>commit 1 da branch A</h2>
+           estado final da branch pronta para continuar...
  primeiro commit da branch A
           <p>paragráfo</p>
      </main>
